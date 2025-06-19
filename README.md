@@ -16,3 +16,10 @@ Day 2:
 5. https://leetcode.com/problems/delete-node-in-a-bst/
 6. https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/
 7. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+
+Day 3
+1. https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/
+2. https://leetcode.com/problems/delete-leaves-with-a-given-value/description/
+3. https://leetcode.com/problems/range-sum-of-bst/description/
+4. https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1
+5. https://leetcode.com/problems/implement-trie-prefix-tree/description/
